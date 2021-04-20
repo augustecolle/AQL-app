@@ -1,0 +1,11 @@
+name: satellic-acceptance
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - black
+  - plotly
+  - python
+  - scipy
+  - streamlit
